@@ -1,0 +1,21 @@
+#main {
+  border-width: medium;
+  border-style: solid;
+  text-align: center;
+  width: 50vw;
+  display: block;
+  margin: 0 auto;
+  border-radius: 25px;
+  background-color: lightblue;
+  color: white;
+  font-family: cursive;
+  height: 15vw;
+}
+button {
+  background-color: white;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  color: blue;
+  border-radius: 25px;
+}
