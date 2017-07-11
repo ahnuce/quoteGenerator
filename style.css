@@ -19,3 +19,14 @@ button {
   color: blue;
   border-radius: 25px;
 }
+#fb {
+  text-align: center;
+  display block;
+  margin: 0 auto;
+}
+#b {
+  text-align: center !important;
+  display: block     !important;
+  margin: 0 auto     !important;
+
+}
